@@ -1,4 +1,4 @@
 elm-stuff/
 node_modules/
 .DS_Store
-./tests/Doc
+tests/Doc/

@@ -14,5 +14,5 @@ exampleTernary =
   (1 + 1 == 2) ? "Math works!" <| "Math is wrong ):"
 
 exampleNullCoalescing =
-  (Just "foo") ?: "bar"
+  Just "foo" ?: "bar"
 ```

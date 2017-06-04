@@ -53,7 +53,7 @@ References:
 [<https://en.wikipedia.org/wiki/Null_coalescing_operator>](https://en.wikipedia.org/wiki/Null_coalescing_operator)
 [<https://en.wikipedia.org/wiki/Elvis_operator>](https://en.wikipedia.org/wiki/Elvis_operator)
 
-    >>> (Just "foo") ?: "bar"
+    >>> Just "foo" ?: "bar"
     "foo"
 
     >>> Nothing ?: "bar"
