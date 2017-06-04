@@ -1,4 +1,8 @@
-# Elm Ternary
+elm-ternary [![Build Status][ci-svg]][ci-url]
+==================
+
+[ci-svg]: https://circleci.com/gh/rogeriochaves/elm-ternary.svg?style=shield
+[ci-url]: https://circleci.com/gh/rogeriochaves/elm-ternary
 
 This simple provides infix functions for shorter if/then/else
 conditionals, known as ternary, and a "null" coalescing operator for Maybes.
