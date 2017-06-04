@@ -1,0 +1,25 @@
+{
+  "name": "elm-ternary",
+  "version": "0.0.0-check-elm-package-json",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "elm": "^0.18.0",
+    "elm-doc-test": "^2.2.3",
+    "elm-test": "^0.18.3-beta17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "elm-doc-test && rm tests/Doc/Main.elm && rm tests/Doc/Tests.elm && elm-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriochaves/elm-ternary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriochaves/elm-ternary/issues"
+  },
+  "homepage": "https://github.com/rogeriochaves/elm-ternary#readme"
+}
